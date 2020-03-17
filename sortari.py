@@ -227,3 +227,4 @@ for linie in t:
         #print("Pentru " + str(10 ** i) + " numere, metoda sorted se executa in " + str(final - start) + " secunde.")
 
     print()
+t.close()
