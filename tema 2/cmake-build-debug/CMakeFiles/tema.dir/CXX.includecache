@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Daria/New folder/tema/main.cpp
+iostream
+-
+fstream
+-
+splay_tree.h
+D:/Daria/New folder/tema/splay_tree.h
+
+D:/Daria/New folder/tema/splay_tree.cpp
+splay_tree.h
+D:/Daria/New folder/tema/splay_tree.h
+iostream
+-
+
+D:/Daria/New folder/tema/splay_tree.h
+

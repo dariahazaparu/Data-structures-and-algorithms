@@ -1,0 +1,3 @@
+D:/Daria/New folder/tema/cmake-build-debug/CMakeFiles/tema.dir
+D:/Daria/New folder/tema/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Daria/New folder/tema/cmake-build-debug/CMakeFiles/rebuild_cache.dir
